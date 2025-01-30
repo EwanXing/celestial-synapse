@@ -1,4 +1,4 @@
-# Celestial-Synapse
+# Celestial-Synapse **[中文](README_zh.md)**
 Where the 17th-century Tiangong Kaiwu meets 21st-century neural networks - An open-source library bridging DeepSeek-R1 AI with industrial IoT through biomechanical philosophy.
 
 ## ⚡ Key Features
