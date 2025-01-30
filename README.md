@@ -1,26 +1,21 @@
-# Celestial-Synapse / 天工枢络
-「天工开物，智联枢机」—— 首个融合《天工开物》东方工业智慧与神经科学范式的开源中间件，实现DeepSeek-R1大模型与工业4.0设备的超维对话。
+# Celestial-Synapse
+Where the 17th-century Tiangong Kaiwu meets 21st-century neural networks - An open-source library bridging DeepSeek-R1 AI with industrial IoT through biomechanical philosophy.
 
-## 🌟 核心价值
+## ⚡ Key Features
 
-协议通灵者：无缝转换30+工业协议（PROFINET/OPC-UA/EtherCAT），构建设备间的"经脉网络"
+Industrial Synaptic Transmission
+Real-time protocol translation across 30+ standards (Modbus/MQTT/Profinet)
 
-边缘觉知引擎：5ms级实时推理框架，让CNC机床/AGV机器人拥有预测性维护的"工业第六感"
+Edge Cognition Core
+Sub-10ms inference engine for predictive maintenance on PLCs/CNC machines
 
-算力炼丹炉：自适应ARM/x86/GPU异构架构，在8KB内存设备上运行神经网络算子
+Alchemical Computing
+Neural operator optimization from cloud GPUs to 8KB RAM microcontrollers
 
-## 🛠 场景革命
+## 🌐 Philosophy in Code
 
-钢铁厂温度传感阵列的"脉象诊断"
+The Inner Canon of Industrial Equipment: Self-healing mechanism inspired by TCM meridian theory
 
-风电设备振动数据的"经络预警"
+Shen Kuo's Digital Dream Pool: Dynamic topology mapping using Song Dynasty astrolabe principles
 
-半导体产线视觉质检的"望闻问切"
-
-## 📜 技术典籍
-
-采用《考工记》启发式协议抽象层设计
-
-集成《九章算术》工业数据流优化算法
-
-内置《鲁班经》设备拓扑建模语言
+Wuwei Engineering: Autonomous decision-making with Daoist non-action constraints
