@@ -1,0 +1,101 @@
+{
+  "template": "app",
+  "imports": {
+    "Volo.Abp.LeptonXLiteTheme": {
+      "version": "4.1.0",
+      "isInstalled": true
+    },
+    "Volo.Abp.Account": {
+      "version": "9.1.0",
+      "isInstalled": true
+    },
+    "Volo.Abp.OpenIddict": {
+      "version": "9.1.0",
+      "isInstalled": true
+    },
+    "Volo.Abp.Identity": {
+      "version": "9.1.0",
+      "isInstalled": true
+    },
+    "Volo.Abp.TenantManagement": {
+      "version": "9.1.0",
+      "isInstalled": true
+    },
+    "Volo.Abp.SettingManagement": {
+      "version": "9.1.0",
+      "isInstalled": true
+    },
+    "Volo.Abp.PermissionManagement": {
+      "version": "9.1.0",
+      "isInstalled": true
+    },
+    "Volo.Abp.FeatureManagement": {
+      "version": "9.1.0",
+      "isInstalled": true
+    }
+  },
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {}
+    }
+  },
+  "packages": {
+    "Synapse.Application": {
+      "path": "src/Synapse.Application/Synapse.Application.abppkg",
+      "folder": "src"
+    },
+    "Synapse.Application.Tests": {
+      "path": "test/Synapse.Application.Tests/Synapse.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "Synapse.Domain.Shared": {
+      "path": "src/Synapse.Domain.Shared/Synapse.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "Synapse.Application.Contracts": {
+      "path": "src/Synapse.Application.Contracts/Synapse.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "Synapse.HttpApi": {
+      "path": "src/Synapse.HttpApi/Synapse.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "Synapse.HttpApi.Client": {
+      "path": "src/Synapse.HttpApi.Client/Synapse.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "Synapse.EntityFrameworkCore.Tests": {
+      "path": "test/Synapse.EntityFrameworkCore.Tests/Synapse.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "Synapse.EntityFrameworkCore": {
+      "path": "src/Synapse.EntityFrameworkCore/Synapse.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "Synapse.TestBase": {
+      "path": "test/Synapse.TestBase/Synapse.TestBase.abppkg",
+      "folder": "test"
+    },
+    "Synapse.Domain.Tests": {
+      "path": "test/Synapse.Domain.Tests/Synapse.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "Synapse.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Synapse.HttpApi.Client.ConsoleTestApp/Synapse.HttpApi.Client.ConsoleTestApp.abppkg",
+      "folder": "test"
+    },
+    "Synapse.DbMigrator": {
+      "path": "src/Synapse.DbMigrator/Synapse.DbMigrator.abppkg",
+      "folder": "src"
+    },
+    "Synapse.HttpApi.Host": {
+      "path": "src/Synapse.HttpApi.Host/Synapse.HttpApi.Host.abppkg",
+      "folder": "src"
+    },
+    "Synapse.Domain": {
+      "path": "src/Synapse.Domain/Synapse.Domain.abppkg",
+      "folder": "src"
+    }
+  }
+}
